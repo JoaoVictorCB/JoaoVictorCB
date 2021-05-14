@@ -3,7 +3,7 @@ My name is João Victor, I am interested in learning programming, and in various
 
 I am currently studying a Programmer course and i’m accepting tips on the area.
 
-![](https://s3.cointelegraph.com/storage/uploads/view/bad02e8b57a64d349aa5eec318298b4b.png)
+![](https://i.pinimg.com/originals/b0/73/e9/b073e9150cc603e3a5b757be38fc771b.jpg)
 
 In my spare time I play electronic games... Counter-Strike: Global Ofensive, Rainbow Six Siege, Minecraft and others games...
 
@@ -20,4 +20,3 @@ My daily objectives are: Improve knowledge, help the next and be a good person.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictorCB)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVictorCB&show_icons=true)  
-
