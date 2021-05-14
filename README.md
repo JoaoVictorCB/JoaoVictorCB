@@ -21,7 +21,3 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVictorCB&show_icons=true)  
  
- #header {
-	border-top: 10px solid #11242e;
-	background: #193442;
-}
