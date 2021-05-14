@@ -1,17 +1,17 @@
 ### **Welcome to my GitHub Profile!**
-My name is João Victor, I am interested in learning programming, and in various technology areas.
+#### My name is João Victor, I am interested in learning programming, and in various technology areas.
 
-I am currently studying a Programmer course and i’m accepting tips on the area.
+#### I am currently studying a Programmer course and i’m accepting tips on the area.
 
-![](https://i.pinimg.com/originals/b0/73/e9/b073e9150cc603e3a5b757be38fc771b.jpg)
+### ![](https://i.pinimg.com/originals/b0/73/e9/b073e9150cc603e3a5b757be38fc771b.jpg)
 
-In my spare time I play electronic games... Counter-Strike: Global Ofensive, Rainbow Six Siege, Minecraft and others games...
+#### In my spare time I play electronic games... Counter-Strike: Global Ofensive, Rainbow Six Siege, Minecraft and others games...
 
-I'm a Cryptocurrency lover: DogeCoin and Bitcoin it's my favorites Cryptocurrency.
+#### I'm a Cryptocurrency lover: DogeCoin and Bitcoin it's my favorites Cryptocurrency.
 
 ![](https://www.infomoney.com.br/wp-content/uploads/2019/06/dogecoin.jpg?fit=561%2C380&quality=50&strip=all)
 
-My daily objectives are: Improve knowledge, help the next and be a good person.
+#### My daily objectives are: Improve knowledge, help the next and be a good person.
 
 ### Have a good profile feedback! Bye...
 
