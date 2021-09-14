@@ -8,8 +8,6 @@
 
 ✔️ Front-End
 
-<br>
-
 <div>
      <a href="https://github.com/JoaoVictorCB">
           <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoVictorCB&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
