@@ -11,7 +11,7 @@
 <div >
      <a href="https://github.com/JoaoVictorCB">
           <img height="160em" align = "center" style="max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=JoaoVictorCB&hide=prs,issues&show_icons=true&theme=react&include_all_commits=true" /></a>
-          <a href="https://github.com/JoaoVictorCB"><img height="140em" align = "center" style="max-width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictorCB&layout=compact&langs_count=16&theme=react" /></a>
+          <a href="https://github.com/JoaoVictorCB"><img height="130em" align = "center" style="max-width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictorCB&layout=compact&langs_count=16&theme=react" /></a>
 </div>
      
 ##
