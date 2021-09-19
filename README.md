@@ -1,12 +1,10 @@
 ## Olá!! Me chamo João Victor
 
      Desde sempre me interessei nesta área
-
-✔️ 17 years
+     
+✔️ Front-End
 
 ✔️ Estudante de JavaScript, React
-
-✔️ Front-End
 
 <br>
 
