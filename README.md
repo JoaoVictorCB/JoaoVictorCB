@@ -27,5 +27,9 @@
      
 <div>
       <a href="https://github.com/JoaoVictorCB" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+     <a href="https://discord.com/invite/G4de2Sw" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+     <a href="https://twitter.com/JoaooVictorCB" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+     <a href="https://www.twitch.tv/jaioones" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+     <a href="https://open.spotify.com/user/joao.ervilhocb" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
      <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=GTvVlcRwRdzDwxvGzLGBdCrDMHZzVThDfRlQXppksPLVFBvxtJkTWNRkBvxRFhzDVWPjpRhVhfKMW" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
