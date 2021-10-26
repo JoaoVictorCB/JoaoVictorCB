@@ -4,7 +4,7 @@
      
 ✔️ Front-End
 
-✔️ Estudante de JavaScript, React
+✔️ Estudante de Typescript
 
 <hr>
 
