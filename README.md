@@ -1,10 +1,10 @@
-## Olá!! Me chamo João Victor
+## Hi! My name is João Victor
 <hr>
-<p>Faz um bom tempo que possuo contato com tecnologia e desde sempre me interessei nesta área!</p>
+<p>I have had contact with technology for a long time, and I have always been interested in this area!</p>
      
 ✔️ Front-End
 
-✔️ Estudante de Typescript
+✔️ Studying Typescript
 
 <hr>
 
